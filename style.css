@@ -1,0 +1,55 @@
+html
+{
+    box-sizing:border-box;
+}
+*,*:before,*:after
+{
+    box-sizing:inherit;
+}
+.page-wrapper
+{
+    max-width:968px;
+    margin:0 auto;
+}
+#divmain
+{
+    border:1px solid #539bf9;
+    border-radius:0.5em;
+    background-color:#fcd9a4;
+    text-align:center;
+}
+#feedForm
+{
+
+    text-align:center;
+    padding:20px;
+
+    color:#0e3c5f;
+}
+
+.formcontrols
+{
+    width:300px;
+}
+
+#lblgen
+{
+    padding-right: 320px;
+}
+.ingen
+{
+    padding-right:150px;
+}
+#confirm
+{
+    display: none;
+}
+#footer
+{
+    border:solid darkslategrey 1px;
+    border-radius:0.5em;
+    background-color:#fcd9a4;
+    height: 50px;
+    text-align: center;
+
+}
